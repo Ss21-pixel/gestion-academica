@@ -1,14 +1,14 @@
-# 📚 Gestión Académica
+#  Gestión Académica
 
 Proyecto académico desarrollado con Java y Spring Boot para la práctica guiada de Programación IV.
 
-## 🎯 Descripción
+##  Descripción
 
 Este proyecto implementa una aplicación base de gestión académica utilizando Spring Boot y Maven.
 
 La aplicación cuenta actualmente con una API REST que permite mostrar un saludo de prueba y consultar una lista de cursos.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Java 21
 - Spring Boot
@@ -19,7 +19,7 @@ La aplicación cuenta actualmente con una API REST que permite mostrar un saludo
 - Git
 - GitHub
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 gestion-academica/
