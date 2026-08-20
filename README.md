@@ -1,8 +1,8 @@
-#  Gestión Académica
+# Gestión Académica
 
 Proyecto académico desarrollado con Java y Spring Boot para la práctica guiada de Programación IV.
 
-##  Descripción
+## Descripción
 
 Este proyecto implementa una aplicación base de gestión académica utilizando Spring Boot y Maven.
 
@@ -37,8 +37,8 @@ gestion-academica/
 │       │               │   └── CursoService.java
 │       │               └── GestionAcademicaApplication.java
 │       └── resources/
-│           └── application.properties
+│           ├── application.properties
+│           └── application-dev.properties
 ├── pom.xml
 ├── mvnw
 └── mvnw.cmd
-
